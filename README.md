@@ -22,3 +22,4 @@
 - [Containerizing an application](https://learn.microsoft.com/en-us/dotnet/core/docker/build-container?tabs=windows&pivots=dotnet-9-0)
 - [Agile manifesto](https://agilemanifesto.org/)
 - [Measure what matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/), a book defining OKRs (objective key results)  
+- [Azure DevOps Services pricing](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/), notice how some services can be purchased independently

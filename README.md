@@ -28,3 +28,6 @@
   - [MS Docs aricle following the same pattern](https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup)
 - [Creating an Azure DevOps organization](https://go.microsoft.com/fwlink/?LinkId=307137)
 - [Landing page for Azure DevOps](https://dev.azure.com/)
+- [GitFlow process](https://nvie.com/posts/a-successful-git-branching-model/)
+- [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
+- 

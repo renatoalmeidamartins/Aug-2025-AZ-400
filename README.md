@@ -23,3 +23,6 @@
 - [Agile manifesto](https://agilemanifesto.org/)
 - [Measure what matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/), a book defining OKRs (objective key results)  
 - [Azure DevOps Services pricing](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/), notice how some services can be purchased independently
+- Customizing Windows Terminal:
+  - [Scott Hanselmann's initial idea](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal)
+  - [MS Docs aricle following the same pattern](https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup)

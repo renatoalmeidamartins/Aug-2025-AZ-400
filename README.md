@@ -17,3 +17,4 @@
   - [The DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404/), set of musings from multiple execs of companies facing the same growth pain in the early 2000's, and how did they come to more or less the same solutions
   - [Accelerate book](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/), the book with questionnaire leading to ["The state of devops report"](https://services.google.com/fh/files/misc/2024_final_dora_report.pdf). The link is for the 2024 edition, these are published every year.
 - [There's no place like production](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
+- ![Poor requirements gathering](https://miro.medium.com/v2/resize:fit:720/format:webp/1*SY1SmBI-eFiVK5HlVzTBUg.jpeg)

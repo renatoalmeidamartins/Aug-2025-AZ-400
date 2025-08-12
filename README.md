@@ -20,3 +20,5 @@
 - Poor interaction with customer, leading to...![Poor requirements gathering](https://miro.medium.com/v2/resize:fit:720/format:webp/1*SY1SmBI-eFiVK5HlVzTBUg.jpeg)
 - [Strangler Fig pattern, in the Azure architecture Center](https://learn.microsoft.com/en-us/azure/architecture/patterns/strangler-fig), this is an interesting way to move from monolithic apps into microservices
 - [Containerizing an application](https://learn.microsoft.com/en-us/dotnet/core/docker/build-container?tabs=windows&pivots=dotnet-9-0)
+- [Agile manifesto](https://agilemanifesto.org/)
+- 

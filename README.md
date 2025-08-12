@@ -37,6 +37,9 @@
 - [GitHub CLI](https://cli.github.com/manual/gh)
 - [git log](https://git-scm.com/docs/git-log), shows commit logs, targeting specific versions if needed
 - [git tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+- Documenting APIs:
+  - [Doc on MS to use DotNet directly for that](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/openapi/overview?view=aspnetcore-9.0)
+  - [Swagger doc illustrating a few ways to do it](https://swagger.io/resources/articles/documenting-apis-with-swagger/)
 - Repo cleaning tools:
   - [BFG Repo Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
   - [git filter-repo tool](https://github.com/newren/git-filter-repo)

@@ -30,4 +30,4 @@
 - [Landing page for Azure DevOps](https://dev.azure.com/)
 - [GitFlow process](https://nvie.com/posts/a-successful-git-branching-model/)
 - [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
-- 
+- [Git hooks](https://git-scm.com/book/ms/v2/Customizing-Git-Git-Hooks)

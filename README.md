@@ -43,3 +43,4 @@
 - Repo cleaning tools:
   - [BFG Repo Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
   - [git filter-repo tool](https://github.com/newren/git-filter-repo)
+- [Clean code, book with ideas on how to create beautiful code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)

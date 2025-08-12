@@ -26,3 +26,5 @@
 - Customizing Windows Terminal:
   - [Scott Hanselmann's initial idea](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal)
   - [MS Docs aricle following the same pattern](https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup)
+- [Creating an Azure DevOps organization](https://go.microsoft.com/fwlink/?LinkId=307137)
+- [Landing page for Azure DevOps](https://dev.azure.com/)

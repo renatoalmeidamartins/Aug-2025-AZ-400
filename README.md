@@ -15,3 +15,4 @@
   - [The Phoenix project](https://www.amazon.com/Phoenix-Project-bestselling-author-Unicorn/dp/1950508943/), a view of Parts Unlimited project, from the Ops side
   - [The unicorn project](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762/), someone at the same company, at the same time, wearing a developer hat
   - [The DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404/), set of musings from multiple execs of companies facing the same growth pain in the early 2000's, and how did they come to more or less the same solutions
+  - [Accelerate book](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/), the book with questionnaire leading to ["The state of devops report"](https://services.google.com/fh/files/misc/2024_final_dora_report.pdf). The link is for the 2024 edition, these are published every year.

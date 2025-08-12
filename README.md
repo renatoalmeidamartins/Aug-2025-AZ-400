@@ -31,3 +31,5 @@
 - [GitFlow process](https://nvie.com/posts/a-successful-git-branching-model/)
 - [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 - [Git hooks](https://git-scm.com/book/ms/v2/Customizing-Git-Git-Hooks)
+- [Storing large files in Git](https://github.com/git-lfs/git-lfs)
+- [Partial and shallow clones in git](https://github.blog/open-source/git/get-up-to-speed-with-partial-clone-and-shallow-clone/)

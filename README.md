@@ -34,3 +34,9 @@
 - [Storing large files in Git](https://github.com/git-lfs/git-lfs)
 - [Partial and shallow clones in git](https://github.blog/open-source/git/get-up-to-speed-with-partial-clone-and-shallow-clone/)
 - Scalar, useful for fine-tuning how git works on large repos, [the tool](https://git-scm.com/docs/scalar) and [the story behind it](https://github.blog/open-source/git/the-story-of-scalar/)
+- [GitHub CLI](https://cli.github.com/manual/gh)
+- [git log](https://git-scm.com/docs/git-log), shows commit logs, targeting specific versions if needed
+- [git tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+- Repo cleaning tools:
+  - [BFG Repo Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
+  - [git filter-repo tool](https://github.com/newren/git-filter-repo)

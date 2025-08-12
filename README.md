@@ -9,6 +9,7 @@
 - [Learning path for the class](https://learn.microsoft.com/en-us/training/courses/az-400t00)
 - [Description and instructions for the labs (to be done outside of the hosting environment)](https://aka.ms/az400-labs)
 - [Access to hosted lab environment](https://esi.learnondemand.net/) - this requires a training key, please ask in the Teams session
+## Day 1 links (Learning path 1 - Development for enterprise DevOps)
 - [What is DevOps?](https://learn.microsoft.com/en-us/devops/what-is-devops), an article from MS
 - [10+ deploys per day at Flicker, talk at Velocity Conference 2009, by John Allspaw and Paul Hammond](https://www.youtube.com/watch?v=LdOe18KhtT4&t=12s)
 - Interesting books about DevOps:

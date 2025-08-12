@@ -18,3 +18,4 @@
   - [Accelerate book](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/), the book with questionnaire leading to ["The state of devops report"](https://services.google.com/fh/files/misc/2024_final_dora_report.pdf). The link is for the 2024 edition, these are published every year.
 - [There's no place like production](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
 - Poor interaction with customer, leading to...![Poor requirements gathering](https://miro.medium.com/v2/resize:fit:720/format:webp/1*SY1SmBI-eFiVK5HlVzTBUg.jpeg)
+- [Strangler Fig pattern, in the Azure architecture Center](https://learn.microsoft.com/en-us/azure/architecture/patterns/strangler-fig), this is an interesting way to move from monolithic apps into microservices

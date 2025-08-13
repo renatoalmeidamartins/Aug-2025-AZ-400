@@ -54,3 +54,7 @@
 - [Reusing parts of the pipeline as templates](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops&pivots=templates-includes)
 - [GitHub default environment variables](https://docs.github.com/en/actions/reference/workflows-and-actions/variables)
 - [Using status badges](https://docs.github.com/en/actions/how-tos/monitor-workflows/add-a-status-badge)
+- [Sample Dockerfile for a .Net application](https://github.com/dockersamples/dotnet-album-viewer/blob/master/docker/app/Dockerfile)
+- [Full Dockerfile reference](https://docs.docker.com/reference/dockerfile/)
+- [Using multi-stage builds in Dockerfiles](https://docs.docker.com/build/building/multi-stage/)
+- 

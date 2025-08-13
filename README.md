@@ -57,4 +57,7 @@
 - [Sample Dockerfile for a .Net application](https://github.com/dockersamples/dotnet-album-viewer/blob/master/docker/app/Dockerfile)
 - [Full Dockerfile reference](https://docs.docker.com/reference/dockerfile/)
 - [Using multi-stage builds in Dockerfiles](https://docs.docker.com/build/building/multi-stage/)
+- Interesting info about GitOps:
+  - [GitLab defining it](https://about.gitlab.com/topics/gitops/)
+  - [Weaveworks defining it, they have a very mature solution, endorsed by CNCF](https://docs.gitops.weaveworks.org/docs/intro-weave-gitops/)
 - 

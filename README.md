@@ -50,3 +50,4 @@
 ## Day 2 links (Learning path 2 - Implement CI with Azure Pipelines and GitHub Actions)
 - [Defining stages in Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/stages?view=azure-devops&tabs=yaml)
 - [Documentation of all tasks available in Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/?view=azure-pipelines&viewFallbackFrom=azure-devops)
+- [Details (software, hardwarde, networking) for MS hosted agents](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&tabs=windows-images%2Cyaml)

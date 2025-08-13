@@ -53,3 +53,4 @@
 - [Details (software, hardwarde, networking) for MS hosted agents](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&tabs=windows-images%2Cyaml)
 - [Reusing parts of the pipeline as templates](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops&pivots=templates-includes)
 - [GitHub default environment variables](https://docs.github.com/en/actions/reference/workflows-and-actions/variables)
+- [Using status badges](https://docs.github.com/en/actions/how-tos/monitor-workflows/add-a-status-badge)

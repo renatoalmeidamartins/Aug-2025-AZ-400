@@ -61,4 +61,5 @@
   - [GitLab defining it](https://about.gitlab.com/topics/gitops/)
   - [Weaveworks defining it, they have a very mature solution, endorsed by CNCF](https://docs.gitops.weaveworks.org/docs/intro-weave-gitops/)
   - [Types of tests avaiable through application insights on Azure - notice that Url ping and multi-step web tests are deprecated](https://learn.microsoft.com/en-us/azure/azure-monitor/app/availability?tabs=standard)
+  - [Azure Load testing (currently App Test) documentation](https://learn.microsoft.com/en-us/azure/app-testing/load-testing/overview-what-is-azure-load-testing)
 - 

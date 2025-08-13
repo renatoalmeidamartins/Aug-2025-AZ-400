@@ -63,3 +63,4 @@
 - [Types of tests avaiable through application insights on Azure](https://learn.microsoft.com/en-us/azure/azure-monitor/app/availability?tabs=standard) - notice that Url ping and multi-step web tests are deprecated
 - [Azure Load testing (currently App Test) documentation](https://learn.microsoft.com/en-us/azure/app-testing/load-testing/overview-what-is-azure-load-testing)
 - [Task groups](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/task-groups?view=azure-devops), notice that they are only available on classic pipeliens. Equivalent to this on yaml pipelines are the templates.
+- [Release strategies, each exposing different lifecycle hooks](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/deployment-jobs?view=azure-devops)

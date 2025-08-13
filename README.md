@@ -46,3 +46,7 @@
   - [BFG Repo Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
   - [git filter-repo tool](https://github.com/newren/git-filter-repo)
 - [Clean code, book with ideas on how to create beautiful code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)
+
+## Day 2 links (Learning path 2 - Implement CI with Azure Pipelines and GitHub Actions)
+- [Defining stages in Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/stages?view=azure-devops&tabs=yaml)
+- [Documentation of all tasks available in Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/?view=azure-pipelines&viewFallbackFrom=azure-devops)

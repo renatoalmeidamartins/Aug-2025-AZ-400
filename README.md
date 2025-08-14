@@ -88,3 +88,19 @@
 - [Parallel processing in PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/write-progress-across-multiple-threads?view=powershell-7.5), be careful with race conditions. You will need a mutli-thread aware class to write something out.
 [Using Azzure Policy to avoid configuration drift](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/remediate-resources?tabs=azure-portal)
 - [Power shell desired state configuration](https://learn.microsoft.com/en-us/powershell/dsc/overview?view=dsc-3.0)
+
+## Lab activities for day 3:
+- Time for lunch and labs starting at 12:15 Central 
+- Lunch until 13:15 
+### Labs for Learning path 4: Implement a secure continuous deployment using Azure Pipelines (should be done by 3:00 PM )
+- 40 min - Integrate Azure Key Vault with Azure DevOps 
+- 60 min - Enable Dynamic Configuration and Feature Flags
+ 
+
+### Labs for Learning path 5: Manage infrastructure as code using Azure and DSC (should be done by 4 PM)
+- 45 min - Deployments using Azure Bicep templates
+
+### With some time left, you can explore the lab: Example lab for using Terraform in Azure DevOps linked above
+
+
+

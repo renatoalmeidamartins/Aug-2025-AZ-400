@@ -65,3 +65,7 @@
 - [Task groups](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/task-groups?view=azure-devops), notice that they are only available on classic pipeliens. Equivalent to this on yaml pipelines are the templates.
 - [Release strategies, each exposing different lifecycle hooks](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/deployment-jobs?view=azure-devops)
 - [Release strategies in the Azure Architecture center](https://learn.microsoft.com/en-us/azure/architecture/microservices/ci-cd)
+
+## Day 3 links ("Learning path 4 - Implement a secure continuous deployment using Azure Pipelines" and "Learning Path 5 - Manage infrastructure as code using Azure and DSC")
+- [Feature flags](https://martinfowler.com/articles/feature-toggles.html)
+- 

@@ -77,3 +77,7 @@
 - [Default groups in Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/organizations/security/about-permissions?view=azure-devops&tabs=preview-page)
 - [Good practices for using Azure App Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-best-practices?tabs=dotnet)
 - [GitOps and its relation to inner and outer loops](https://learn.microsoft.com/en-us/azure/azure-arc/kubernetes/conceptual-inner-loop-gitops)
+- [ARM template syntax](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax)
+- [ARM template functions](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/template-functions)
+- [Secret references in ARM templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/key-vault-parameter?tabs=azure-cli)
+- [Bicep syntax](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/file)

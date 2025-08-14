@@ -84,3 +84,4 @@
 - [Example lab for using Terraform in Azure DevOps](https://github.com/Azure-Samples/azure-devops-terraform-oidc-ci-cd#demo--lab)
 - [Terraform labs on Azure, from zero to hero](https://azure-samples.github.io/terraform-fundamentals-labs/)
 - [Azure automation GitHub organization](https://github.com/azureautomation), has a lot of sample runbooks
+- [Powershell workflows](learn.microsoft.com/en-us/powershell/module/psworkflow/about/about_workflows?view=powershell-5.1&viewFallbackFrom=powershell-7.6)

@@ -87,3 +87,4 @@
 - [Powershell workflows](learn.microsoft.com/en-us/powershell/module/psworkflow/about/about_workflows?view=powershell-5.1&viewFallbackFrom=powershell-7.6)
 - [Parallel processing in PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/write-progress-across-multiple-threads?view=powershell-7.5), be careful with race conditions. You will need a mutli-thread aware class to write something out.
 [Using Azzure Policy to avoid configuration drift](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/remediate-resources?tabs=azure-portal)
+- [Power shell desired state configuration](https://learn.microsoft.com/en-us/powershell/dsc/overview?view=dsc-3.0)

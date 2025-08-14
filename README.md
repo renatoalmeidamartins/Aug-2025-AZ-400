@@ -69,4 +69,7 @@
 ## Day 3 links ("Learning path 4 - Implement a secure continuous deployment using Azure Pipelines" and "Learning Path 5 - Manage infrastructure as code using Azure and DSC")
 - [Feature flags](https://martinfowler.com/articles/feature-toggles.html)
 - [Using Azure App Configuration for feature flags](https://learn.microsoft.com/en-us/azure/azure-app-configuration/manage-feature-flags?tabs=azure-portal)
+- Using Traffic manager to help with canary or blue-green deployments:
+  - [Traffic manager routing methods](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods)
+  - [Types of endpoints supported by traffic manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-endpoint-types)
 - 

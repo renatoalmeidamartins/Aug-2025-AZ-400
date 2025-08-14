@@ -68,4 +68,5 @@
 
 ## Day 3 links ("Learning path 4 - Implement a secure continuous deployment using Azure Pipelines" and "Learning Path 5 - Manage infrastructure as code using Azure and DSC")
 - [Feature flags](https://martinfowler.com/articles/feature-toggles.html)
+- [Using Azure App Configuration for feature flags](https://learn.microsoft.com/en-us/azure/azure-app-configuration/manage-feature-flags?tabs=azure-portal)
 - 

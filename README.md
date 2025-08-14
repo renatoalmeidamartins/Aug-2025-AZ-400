@@ -81,3 +81,5 @@
 - [ARM template functions](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/template-functions)
 - [Secret references in ARM templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/key-vault-parameter?tabs=azure-cli)
 - [Bicep syntax](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/file)
+- [Example lab for using Terraform in Azure DevOps](https://github.com/Azure-Samples/azure-devops-terraform-oidc-ci-cd#demo--lab)
+- [Terraform labs on Azure, from zero to hero](https://azure-samples.github.io/terraform-fundamentals-labs/)

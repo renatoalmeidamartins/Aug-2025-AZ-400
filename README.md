@@ -72,4 +72,6 @@
 - Using Traffic manager to help with canary or blue-green deployments:
   - [Traffic manager routing methods](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods)
   - [Types of endpoints supported by traffic manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-endpoint-types)
-- 
+- [Seeting up SSO in a GitHub environment](https://docs.github.com/en/enterprise-cloud@latest/authentication/authenticating-with-single-sign-on/about-authentication-with-single-sign-on)
+- [GitHub roles available in organizations](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/roles-in-an-organization)
+- [Default groups in Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/organizations/security/about-permissions?view=azure-devops&tabs=preview-page)

@@ -96,4 +96,5 @@
 - [Threat dragon](https://owasp.org/www-project-threat-dragon/), tool from OWASP for threat modeling
 - [Microsoft threat modeling tool](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool), latest release is quite old, from 2022
 - [CodeQL](https://codeql.github.com/docs/codeql-overview/)
-
+- [CNCF landscape, showing all the projects, and their maturity, from CNCF](https://landscape.cncf.io/)
+- [GitHUb dependabot](https://github.com/dependabot/dependabot-core)

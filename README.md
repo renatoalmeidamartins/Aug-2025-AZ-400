@@ -111,3 +111,5 @@
 - [Kusto main functions](https://learn.microsoft.com/en-us/kusto/query/tutorials/learn-common-operators?view=microsoft-fabric)
 - [Native integrations with ITSM systems - available for ServiceNow and BMC](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-overview)
 - [Smart detection on application insights](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/proactive-diagnostics)
+- [One approach to run a blameless post-mortem](https://www.atlassian.com/incident-management/postmortem/blameless)
+- [Postmortem culture from Google SRE book](https://sre.google/sre-book/postmortem-culture/)

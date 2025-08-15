@@ -90,7 +90,7 @@
 - [Power shell desired state configuration](https://learn.microsoft.com/en-us/powershell/dsc/overview?view=dsc-3.0)
 - [Dependencies when using bicep files](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/resource-dependencies)
   
-## Day 4 links ("Learning path 6 - Implement security and validate code bases for compliance", "Learning Path 7 - " and "Learning path 8 - ")
+## Day 4 links ("Learning path 6 - Implement security and validate code bases for compliance", "Learning Path 7 - Design and implement a dependency management strategy" and "Learning path 8 - ")
 - [Exploits of a mom](https://xkcd.com/327/), Little bobby tables doing SQL injection since he was born
 - [Log4j exploit through log4shell](https://en.wikipedia.org/wiki/Log4Shell)
 - [Threat dragon](https://owasp.org/www-project-threat-dragon/), tool from OWASP for threat modeling
@@ -106,3 +106,4 @@
 - [Azure policy language](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure-basics)
 - [GitHub Advanced security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
 - [Permissions on feeds hosted by Azure DevOps Artifacts](https://learn.microsoft.com/en-us/azure/devops/artifacts/feeds/feed-permissions?view=azure-devops&tabs=nuget%2Cnugetserver22%2Cnugetserver)
+- [Semantic versioning](https://semver.org/)

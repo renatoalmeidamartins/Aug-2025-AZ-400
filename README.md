@@ -109,3 +109,4 @@
 - [Semantic versioning](https://semver.org/)
 - [KQL Syntax](https://learn.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference)
 - [Kusto main functions](https://learn.microsoft.com/en-us/kusto/query/tutorials/learn-common-operators?view=microsoft-fabric)
+- [Native integrations with ITSM systems - available for ServiceNow and BMC](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-overview)

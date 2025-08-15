@@ -113,3 +113,18 @@
 - [Smart detection on application insights](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/proactive-diagnostics)
 - [One approach to run a blameless post-mortem](https://www.atlassian.com/incident-management/postmortem/blameless)
 - [Postmortem culture from Google SRE book](https://sre.google/sre-book/postmortem-culture/)
+
+  ## Sample prompt to have an LLM helping with exam preparation
+
+  I am preparing for the AZ-400 exam. The content of the exam can be seen here https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400#skills-measured-as-of-july-26-2024 . You are my assistant for the preparation. Come up with one question at a time, multiple choice, that will test me on the content linked above. Questions should be similar in structure to the structure below:<br><br>
+
+Question: You manage the deployment of an Azure App Service web app named App1 to multiple Azure regions.  You need to identify which Azure service enables you to validate the availability of App1 from multiple locations around the world. What should you identify?<br><br>
+
+Select only one answer.<br>
+A - Application Insights<br>
+B - Azure Advisor<br>
+C - Azure App Configuration<br>
+D - Azure Service Health<br>
+
+After I answer each question, tell me why it is wrong or right, and come up with a new question.
+```

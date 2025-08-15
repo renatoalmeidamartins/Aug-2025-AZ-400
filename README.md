@@ -2,7 +2,7 @@
 
 ## Trainer contact details:
 - [LinkedIn profile](https://www.linkedin.com/in/renatodealmeidamartins/)
-- [Email]](mailto:renatoalmeidamartins@gmail.com]
+- [Email]](mailto:renatoalmeidamartins@gmail.com)
 
 ## Evaluation form
 [Link to the survey](https://www.metricsthatmatter.com/student/evaluation.asp?k=79335&i=84170)

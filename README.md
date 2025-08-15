@@ -107,3 +107,5 @@
 - [GitHub Advanced security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
 - [Permissions on feeds hosted by Azure DevOps Artifacts](https://learn.microsoft.com/en-us/azure/devops/artifacts/feeds/feed-permissions?view=azure-devops&tabs=nuget%2Cnugetserver22%2Cnugetserver)
 - [Semantic versioning](https://semver.org/)
+- [KQL Syntax](https://learn.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference)
+- [Kusto main functions](https://learn.microsoft.com/en-us/kusto/query/tutorials/learn-common-operators?view=microsoft-fabric)

@@ -105,3 +105,4 @@
   - [Defender for containers](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-containers-introduction)
 - [Azure policy language](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure-basics)
 - [GitHub Advanced security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
+- [Permissions on feeds hosted by Azure DevOps Artifacts](https://learn.microsoft.com/en-us/azure/devops/artifacts/feeds/feed-permissions?view=azure-devops&tabs=nuget%2Cnugetserver22%2Cnugetserver)

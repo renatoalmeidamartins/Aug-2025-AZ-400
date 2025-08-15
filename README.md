@@ -99,3 +99,8 @@
 - [CNCF landscape, showing all the projects, and their maturity, from CNCF](https://landscape.cncf.io/)
 - [GitHUb dependabot](https://github.com/dependabot/dependabot-core)
 - Mend, Checkmarx, Veracode, Black Duck by Synopsis, SonarQube among others are nice tools for SCA, code scanning and other aspects of DevSecOps
+- Container scanning shouldn't be ignored. Some tools are:
+  - [Trivy](https://github.com/aquasecurity/trivy)
+  - [Clair](https://github.com/quay/clair)
+  - [Defender for containers](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-containers-introduction)
+  - 

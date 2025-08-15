@@ -98,3 +98,4 @@
 - [CodeQL](https://codeql.github.com/docs/codeql-overview/)
 - [CNCF landscape, showing all the projects, and their maturity, from CNCF](https://landscape.cncf.io/)
 - [GitHUb dependabot](https://github.com/dependabot/dependabot-core)
+- Mend, Checkmarx, Veracode, Black Duck by Synopsis, SonarQube among others are nice tools for SCA, code scanning and other aspects of DevSecOps

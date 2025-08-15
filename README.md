@@ -93,4 +93,7 @@
 ## Day 4 links ("Learning path 6 - Implement security and validate code bases for compliance", "Learning Path 7 - " and "Learning path 8 - ")
 - [Exploits of a mom](https://xkcd.com/327/), Little bobby tables doing SQL injection since he was born
 - [Log4j exploit through log4shell](https://en.wikipedia.org/wiki/Log4Shell)
+- [Threat dragon](https://owasp.org/www-project-threat-dragon/), tool from OWASP for threat modeling
+- [Microsoft threat modeling tool](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool), latest release is quite old, from 2022
+- [CodeQL](https://codeql.github.com/docs/codeql-overview/)
 

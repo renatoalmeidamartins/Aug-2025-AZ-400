@@ -3,6 +3,8 @@
 ## Trainer contact details:
 - [LinkedIn profile](https://www.linkedin.com/in/renatodealmeidamartins/)
 
+## Evaluation form
+[Link to the survey](https://www.metricsthatmatter.com/student/evaluation.asp?k=79335&i=84170)
 
 ## Course materials and labs
 - [Creating a MS Learn profile](https://www.aka.ms/MyMicrosoftLearnProfile)
@@ -114,9 +116,9 @@
 - [One approach to run a blameless post-mortem](https://www.atlassian.com/incident-management/postmortem/blameless)
 - [Postmortem culture from Google SRE book](https://sre.google/sre-book/postmortem-culture/)
 
-  ## Sample prompt to have an LLM helping with exam preparation
+## Sample prompt to have an LLM helping with exam preparation
 
-  I am preparing for the AZ-400 exam. The content of the exam can be seen here https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400#skills-measured-as-of-july-26-2024 . You are my assistant for the preparation. Come up with one question at a time, multiple choice, that will test me on the content linked above. Questions should be similar in structure to the structure below:<br><br>
+I am preparing for the AZ-400 exam. The content of the exam can be seen here https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400#skills-measured-as-of-july-26-2024 . You are my assistant for the preparation. Come up with one question at a time, multiple choice, that will test me on the content linked above. Questions should be similar in structure to the structure below:<br><br>
 
 Question: You manage the deployment of an Azure App Service web app named App1 to multiple Azure regions.  You need to identify which Azure service enables you to validate the availability of App1 from multiple locations around the world. What should you identify?<br><br>
 
